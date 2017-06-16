@@ -1,3 +1,0 @@
-add  abc: It's for testing purpose.
-It's for testing purpose.
-Add the second line.
