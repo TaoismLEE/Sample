@@ -1,1 +1,1 @@
-It's for testing purpose.
+add new content to check the merge process.
